@@ -1,0 +1,12 @@
+Buildfile: C:\Users\fatih\Documents\Mendix\Flexport Emission Calculator-main_3\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 3 source files to C:\Users\fatih\Documents\Mendix\Flexport Emission Calculator-main_3\deployment\run\bin
+
+package:
+      [jar] Building jar: C:\Users\fatih\Documents\Mendix\Flexport Emission Calculator-main_3\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+
+

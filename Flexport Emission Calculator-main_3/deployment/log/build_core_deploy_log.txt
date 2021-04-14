@@ -1,0 +1,9 @@
+Buildfile: C:\Users\fatih\Documents\Mendix\Flexport Emission Calculator-main_3\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 33 files to C:\Users\fatih\Documents\Mendix\Flexport Emission Calculator-main_3\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
